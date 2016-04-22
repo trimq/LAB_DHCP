@@ -5,7 +5,7 @@
 ####[1.Mô hình dịch vụ](#mohinh)
 ####[2.Triển khai dịch vụ](#trienkhai)
 <li>[2.1.Cài đặt card mạng nhận DHCP](#caidat)</li>
-<li>[2.2.Cài đặt gói tin DHCP](#goitin)<li>
+<li>[2.2.Cài đặt gói tin DHCP](#goitin)</li>
 <li>[2.3.Cấu hình dịch vụ](#cauhinh)</li>
 <li>[2.4.Khởi chạy dịch vụ](#khoichay)</li>
 ####[3.Gán địa chỉ IP cho client theo địa chỉ MAC](#mac)
